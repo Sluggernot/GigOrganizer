@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\Documents\CanWeGUI46\Assets\Script\ProjectObject.cs">
+    <Files>
+      <File FileName="..\..\..\Documents\CanWeGUI46\Assets\Script\ProjectManager.cs" Line="43" Column="15" />
+      <File FileName="..\..\..\Documents\CanWeGUI46\Assets\Script\ProjectObject.cs" Line="28" Column="72" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

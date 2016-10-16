@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<Project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Title>This is the title of the Project</Title>
+  <Summary>This sums up the project</Summary>
+  <AlbumTitle>Smell Like Octagenarian Spirit</AlbumTitle>
+  <Producer>Rudy Bega</Producer>
+  <Engineer>Vine Ls</Engineer>
+  <Events>
+    <CalendarEvent>
+      <Description>This event will change my life</Description>
+      <Date>121314</Date>
+    </CalendarEvent>
+  </Events>
+  <Songs>
+    <Song>
+      <Name>Generic Song</Name>
+      <Summary>This song was really shitty.  The engineering on it was shit.</Summary>
+      <bDepth>Sixteen</bDepth>
+      <sRate>FortyFour</sRate>
+    </Song>
+  </Songs>
+  <Contacts>
+    <Contact>
+      <Name>Ben</Name>
+      <Number>5129236363</Number>
+      <Email>ben.miles@gmail.com</Email>
+    </Contact>
+  </Contacts>
+</Project><?xml version="1.0" encoding="Windows-1252"?>
+<Project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Title>Different Title</Title>
+  <Summary>This sums up the project</Summary>
+  <AlbumTitle>Smell Like Octagenarian Spirit</AlbumTitle>
+  <Producer>Rudy Bega</Producer>
+  <Engineer>Vine Ls</Engineer>
+  <Events />
+  <Songs>
+    <Song>
+      <Name>Generic Song</Name>
+      <Summary>This song was really shitty.  The engineering on it was shit.</Summary>
+      <bDepth>Sixteen</bDepth>
+      <sRate>FortyFour</sRate>
+    </Song>
+    <Song>
+      <Name>Different Song Name</Name>
+      <Summary>This song was really shitty.  The engineering on it was shit.</Summary>
+      <bDepth>Sixteen</bDepth>
+      <sRate>FortyFour</sRate>
+    </Song>
+  </Songs>
+  <Contacts />
+</Project>
